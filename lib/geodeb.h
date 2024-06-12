@@ -57,7 +57,7 @@ namespace geodeb {
 FILE* geodeb_file = nullptr;
 std::string pad;
 const std::string kDefaultResourcePath =
-    "https://lukakalinovcic.github.io/geodeb";
+    "https://github.com/Blagojce003/geo";
 const std::string kEmpty;
 bool log_to_stderr = true;
 int precision = 6;
